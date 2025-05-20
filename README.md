@@ -1,11 +1,3 @@
-# Bitespeed Identity Reconciliation Backend
-
-This is a backend service for identifying and tracking customer identities across multiple purchases, using email and phone number reconciliation.
-
-## 📌 Problem Statement
-
-In real-world scenarios, a single user might interact with a business using different identities — email or phone number. This backend service helps resolve those identities and returns a consistent primary contact.
-
 ## 🔗 Hosted Endpoint
 
 The service is live at:
